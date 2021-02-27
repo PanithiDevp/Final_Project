@@ -39,9 +39,9 @@ html {
     overflow: hidden;
 }
 
-
-
 /* End of Common styles */
+
+
 
 
 /* Navbar */
@@ -178,6 +178,7 @@ html {
 /* End of Navbar */
 
 
+
 /* Header */
 
 .header {
@@ -307,6 +308,7 @@ html {
 
 
 /* End of Header */
+
 
 
 /* Popular tours */
@@ -440,6 +442,7 @@ html {
 /* End of Popular tours */
 
 
+
 /* Stories */
 
 .stories {
@@ -512,6 +515,7 @@ html {
 
 
 /* End of Stories */
+
 
 
 /* Contact */
@@ -636,6 +640,8 @@ html {
 /* End of Contact */
 
 
+
+
 /* Footer */
 
 .footer {
@@ -673,6 +679,8 @@ html {
 
 
 /* End of Footer */
+
+
 
 @media (max-width: 1200px) {
     .cards-wrapper {
